@@ -38,10 +38,6 @@ span {
 }
 
 .navBar {
-    width: 100%;
-    text-align: center;
-    font-size: 0;
-    justify-content: center;
     display: flex;
     align-items: center;
 }
